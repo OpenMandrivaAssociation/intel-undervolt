@@ -1,3 +1,5 @@
+%undefine _debugsource_packages
+
 Name:           intel-undervolt
 Version:        1.7
 Release:        1
